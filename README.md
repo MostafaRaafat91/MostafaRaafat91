@@ -1,12 +1,12 @@
 <h1 align="center">السلام عليكم و رحمة الله</h1>
 
-<h1 align="center">Hi<img src="https://giphy.com/embed/MPxg9U887PS0B8XT4J" width="240">, I'm Mostafa Raafat</h1>
+<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="240">, I'm Mostafa Raafat</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer..;Live+and+breathe+open-source..;Active+learner/researcher..;Aspire+to+make+a+positive+impact..;"></a>
 </p>
 
-## <picture><img src = "https://giphy.com/embed/qgQUggAC3Pfv687qPC" width = 100px></picture> ABOUT ME
+## <picture><img src = "https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width = 100px></picture> ABOUT ME
 - 🔭 I’m currently working as a freelance Software Engineer (frontend, backend, full-stack, etc..).
 - 👯 I’m looking to collaborate on an open-source projects, and making a positive impact on the world.
 - 💬 Ask me about anything, at least say hi!.
