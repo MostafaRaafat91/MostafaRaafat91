@@ -1,4 +1,6 @@
-<h1 align="center">السلام عليكم و رحمة الله <img src="https://giphy.com/embed/MPxg9U887PS0B8XT4J" width="35">, I'm Mostafa Raafat</h1>
+<h1 align="center">السلام عليكم و رحمة الله</h1>
+
+<h1 align="center">Hi<img src="https://giphy.com/embed/MPxg9U887PS0B8XT4J" width="35">, I'm Mostafa Raafat</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer..;Live+and+breathe+open-source..;Active+learner/researcher..;Aspire+to+make+a+positive+impact..;"></a>
