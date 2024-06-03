@@ -1,6 +1,6 @@
 <h1 align="center">السلام عليكم و رحمة الله</h1>
 
-<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="240">, I'm Mostafa Raafat</h1>
+<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Mostafa Raafat</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer..;Live+and+breathe+open-source..;Active+learner/researcher..;Aspire+to+make+a+positive+impact..;"></a>
@@ -51,7 +51,7 @@
 <div align="center">
 
   <a href="https://github.com/MostafaRaafat91">
-    <img src="https://github-readme-stats.vercel.app/api?username=MostafaRaafat91&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="466"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MostafaRaafat91&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MostafaRaafat91&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="MostafaRaafat91"/>
   
   </a>
