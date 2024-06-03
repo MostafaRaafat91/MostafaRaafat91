@@ -46,7 +46,7 @@
 <br>
 
 
-## <picture><img src="https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" width="80"></picture> GITHUB STATS 
+## <picture><img src="https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" width="80"></picture> GITHUB STATUS 
 
 <div align="center">
 
