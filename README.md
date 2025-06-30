@@ -65,7 +65,7 @@ const MostafaRaafat = {
 ---
 
 ### 🎓 **ALX Pulse Testing Suite** - Enterprise E2E Framework  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaRaafat91&repo=alx-pulse-tests&theme=radical&hide_border=true)](https://github.com/MostafaRaafat91/alx-pulse-tests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaRaafat91&repo=alx-pulse-testing&theme=radical&hide_border=true)](https://github.com/MostafaRaafat91/alx-pulse-testing)
 
 **Comprehensive testing framework for ALX Alumni platform**  
 🎯 **Tech Stack:** JavaScript, Playwright, CI/CD, Performance Analytics  
