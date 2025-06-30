@@ -1,0 +1,105 @@
+{
+  "name": "mcp-playwright-server",
+  "version": "1.2.0",
+  "description": "🚀 AI-Powered Browser Automation MCP Server - Bridge Claude Desktop with Playwright for intelligent web testing and automation",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "mcp-playwright": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:setup": "node test-setup.js",
+    "test:generate": "echo 'Use Claude Desktop to generate tests from documentation'",
+    "test:coverage": "echo 'Use Claude Desktop to validate test coverage'",
+    "test:ci": "playwright test --reporter=github",
+    "install:browsers": "playwright install",
+    "install:browsers:deps": "playwright install --with-deps",
+    "docker:build": "docker build -t mcp-playwright .",
+    "docker:run": "docker run -p 3000:3000 mcp-playwright",
+    "docker:dev": "docker run --rm -it -v $(pwd):/app mcp-playwright npm run dev",
+    "setup:claude": "node setup-claude.js",
+    "lint": "echo 'Linting with ESLint (coming soon)'",
+    "format": "echo 'Formatting with Prettier (coming soon)'",
+    "build": "echo 'TypeScript build (coming soon)'",
+    "prepublishOnly": "npm test"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "playwright",
+    "browser-automation",
+    "testing",
+    "test-generation",
+    "ai-testing",
+    "documentation-driven-testing",
+    "claude-desktop",
+    "web-scraping",
+    "e2e-testing",
+    "automation",
+    "ai-powered",
+    "typescript",
+    "docker"
+  ],
+  "author": {
+    "name": "Mostafa Raafat",
+    "email": "mostafa.raafat91@gmail.com",
+    "url": "https://github.com/MostafaRaafat91"
+  },
+  "contributors": [
+    {
+      "name": "Mostafa Raafat",
+      "email": "mostafa.raafat91@gmail.com",
+      "url": "https://github.com/MostafaRaafat91"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MostafaRaafat91/mcp-playwright#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MostafaRaafat91/mcp-playwright.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MostafaRaafat91/mcp-playwright/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/MostafaRaafat91"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "files": [
+    "src/",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE",
+    "package.json"
+  ],
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.4.0",
+    "@playwright/test": "^1.47.0",
+    "playwright": "^1.47.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0"
+  },
+  "peerDependencies": {
+    "typescript": ">=4.5.0"
+  },
+  "peerDependenciesMeta": {
+    "typescript": {
+      "optional": true
+    }
+  }
+}
