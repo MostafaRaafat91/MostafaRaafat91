@@ -55,7 +55,7 @@ const MostafaRaafat = {
 <div align="center">
 
 ### 🚀 **MCP Playwright Server** - AI-Powered Browser Automation
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaRaafat91&repo=mcp-playwright&theme=radical&hide_border=true)](https://github.com/MostafaRaafat91/MCP-Playwright-Server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaRaafat91&repo=mcp-playwright&theme=radical&hide_border=true)](https://github.com/MostafaRaafat91/mcp-playwright)
 
 **Revolutionary MCP server bridging AI and browser automation**  
 🎯 **Tech Stack:** TypeScript, Playwright, Docker, MCP Protocol  
